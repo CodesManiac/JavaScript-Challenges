@@ -38,7 +38,6 @@ function searchForLongestVowel(word, num) {
     });
 
     output.sort();
-    console.log(output);
     result = output[0];
   }
 
